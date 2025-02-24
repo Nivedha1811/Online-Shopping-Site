@@ -1,1 +1,2 @@
-# Online-Shopping-Site
+# Online-Shopping-Site 
+A microservices-based website is a web application built using the microservices architecture, where the system is divided into multiple small, independent services that communicate via APIs. Each service handles a specific business function, such as authentication, payments, or product management, allowing for scalability, flexibility, and easier maintenance.This website is break-down into product service,inventory service,price service and service registry.Each services has its own actions to implement and interlinked with the application.If any one of the services face a technical error,it does not affect the entire application.
